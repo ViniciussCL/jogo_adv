@@ -1,3 +1,3 @@
 # Guessing game
 
-A simple project made using Python
+Um mini-projeto de jogo de advinhação feito usando comandos básicos de Python
